@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Thinkify-Website
 =======
 # Thinkify
@@ -27,4 +27,4 @@ npm run dev
 4. Email Sending
 5. Markdown Edittor
 6. Drag & Drop
->>>>>>> 7f7fb64 (readme added)
+
