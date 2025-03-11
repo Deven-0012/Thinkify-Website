@@ -1,11 +1,8 @@
 
 # Thinkify-Website
-=======
-# Thinkify
 
 # Preview
 <img src="/preview.png">
-<a href="">Live View</a> | <a href="">Live API</a> | <a href="">Postman</a>
 
 # Requirements
 [Install Node On Your Device](https://nodejs.org/)
