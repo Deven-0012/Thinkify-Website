@@ -9,9 +9,15 @@
 
 # How to Run
 ```
+git clone this repo
+
+# BACKEND
+cd server
 npm install
 npx nodemon index.js
 
+# FRONTEND
+cd ../client
 npm install
 npm run dev
 ```
